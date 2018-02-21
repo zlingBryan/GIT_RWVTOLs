@@ -1,4 +1,4 @@
 The followin repository contains three simulink models:
-..* Linearized Helicopter
-..* Hexacopter
-..* Quadrotor with tilting propellers
+* Linearized Helicopter
+* Hexacopter
+* Quadrotor with tilting propellers
