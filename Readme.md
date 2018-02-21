@@ -1,4 +1,8 @@
+#GIT RWVTOLs
+
+#1 General
+
 The followin repository contains three simulink models:
-* Linearized Helicopter
-* Hexacopter
-* Quadrotor with tilting propellers
+ 1. Linearized model of Helicopter
+ 2. Hexacopter model
+ 3. Quadrotor with tilting propellers model
