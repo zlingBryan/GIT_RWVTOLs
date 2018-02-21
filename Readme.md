@@ -1,6 +1,6 @@
-#GIT RWVTOLs
+# GIT RWVTOLs
 
-#1 General
+# Introduction
 
 The followin repository contains three simulink models:
  1. Linearized model of Helicopter
